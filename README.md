@@ -9,8 +9,5 @@ Use SQL inside Python to get sales data from a SQLite database and display the s
 - Jupyter Notebook
 
 ## Files Included
-- `sales_summary.ipynb`: Jupyter Notebook with all steps (DB creation, SQL queries, summary, plot)
+- <a href="https://github.com/Kavya-Rajeev/sales-summary-using-SQLite-and-Python/blob/main/sales_summary.ipynb">sales_summary.ipynb</a>: Jupyter Notebook(DB creation,queries,summary,bar plot)
 - `sales_data.db`: SQLite database file with sample sales data
-- `sales_chart.png`: Bar chart of revenue by product (optional)
-- `README.md`: This file
-
